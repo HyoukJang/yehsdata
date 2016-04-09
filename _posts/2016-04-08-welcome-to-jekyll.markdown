@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "YEHS의 역사를 데이터로 돌아보다"
 date:   2016-04-08 09:34:02 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2016년의 `한국공학한림원 산하 차세대공학리더(NAEK YEHS, 이하 YEHS)`는 11주년을 맞이하였고 약 1000명의 회원들이 활동하는 명실상부 대한민국 최고의 공학도 조직으로 성장하였습니다. 이를 기념하여 지난 10여년의 세월동안 수많은 YEHS 회원들의 손을 거쳐간 우리들의 발자취를 데이터로 정리하고 이를 돌아보고자 합니다. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+특히, YEHS의 주요 사회공헌 활동인 `주니어공학기술교실`과 `고교방문 전공설명회`를 알아보고 YEHS 자체 활동으로 꾸준히 지속해온 'YEHS 세미나'를 정리하였습니다. 새로운 10년을 준비하며 대한민국의 도약을 이끄는 국가대표 공학도들의 발자취를 함께 걸어보시죠.
 
-Jekyll also offers powerful support for code snippets:
+[주니어공학기술교실][주니어공학기술교실]과 [고교방문 전공설명회][고교방문 전공설명회]에 대한 자세한 설명은 해당 링크를 참고해주세요
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[주니어공학기술교실]: http://hyoukjang.github.io/yehsdata/_pdfs/2016_YEHS_JEA.pdf
+[고교방문 전공설명회]: http://hyoukjang.github.io/yehsdata/_pdfs/2016_YEHS_EES.pdf
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
