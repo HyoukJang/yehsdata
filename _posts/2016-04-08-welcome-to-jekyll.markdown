@@ -10,7 +10,7 @@ categories: jekyll update
 
 [주니어공학기술교실][주니어공학기술교실]과 [고교방문 전공설명회][고교방문 전공설명회]에 대한 자세한 설명은 해당 링크를 참고해주세요
 
-[주니어공학기술교실]: http://hyoukjang.github.io/yehsdata/_pdfs/2016_YEHS_JEA.pdf
-[고교방문 전공설명회]: http://hyoukjang.github.io/yehsdata/_pdfs/2016_YEHS_EES.pdf
+[주니어공학기술교실]: {{ site.url }}/yehsdata/assets/2016_YEHS_JEA.pdf
+[고교방문 전공설명회]: {{ site.url }}/yehsdata/assets/2016_YEHS_EES.pdf
 
 
