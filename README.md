@@ -1,3 +1,13 @@
+**YEHS DATA**
+
+YEHS DATA는 현재 YEHS와 관련된 데이터를 정리한 포스팅을 올리는 웹페이지로의 역할만 있습니다.
+[YEHS 홈페이지](http://yehs.or.kr)와 YEHS Facebook group 중심의 데이터를 모아서 이를 정리하고
+Markdown 기반의 포스팅을 작성한 후 이를 Github page에 올리는 식입니다.
+
+이런 정적 페이지 말고도 YEHS 홈페이지 DB 혹은 Facebook group 포스팅과 연결지어 인터랙티브한 홈페이지도 만들 수 있을 것으로 보입니다.
+무엇이든 열려 있으니 제안해주세요:)
+
+
 A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
 
 [DEMO](http://adueck.github.io/cayman-blog/)
